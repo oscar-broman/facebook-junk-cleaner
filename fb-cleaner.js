@@ -19,8 +19,8 @@ var deletedCount = 0;
 deletedCounter.style.position = 'fixed';
 deletedCounter.style.zIndex = 1e10;
 deletedCounter.style.font = '1.2em sans-serif';
-deletedCounter.style.color = 'white';
-deletedCounter.style.top = '10px';
+deletedCounter.style.color = 'black';
+deletedCounter.style.bottom = '10px';
 deletedCounter.style.left = '10px';
 deletedCounter.innerText = 'Junk hidden: 0';
 
