@@ -5,7 +5,9 @@ var deleteTexts = [
   ' via ',
   ' liked this.',
   ' was mentioned in a ',
-  ' replied to a '
+  ' replied to a ',
+  ' Suggested Post ',
+  ' Sponsored '
 ];
 
 var deletePatterns = [
